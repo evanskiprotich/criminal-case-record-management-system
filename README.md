@@ -1,0 +1,2 @@
+# criminal-case-record-management-system
+it is web-based application that has the following modules: user login (police officer, client, court user), register new user by the admin, ban user by the admin, add/edit/delete police category and police formulation, add police, add criminals and report cases. The users of the system will be an admin, police officers, court users and clients who could be a lawyer or an undercover agent.
